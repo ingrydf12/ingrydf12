@@ -24,7 +24,6 @@ My interests and studies focus on mobile development, web/desktop technologies, 
   <a href="https://www.youtube.com/@tkdinsomniac"><img src="https://img.shields.io/badge/youtube-5319bf.svg?style=for-the-badge&logo=youtube&logoColor=white%22"></a>
 
 </div>
-<br>
 
 <div name="skills" align="left" gap="10">
     <h3>Skills</h3>
