@@ -1,6 +1,6 @@
 
 <div name="introduction" align="left">
-
+<img src="https://images.squarespace-cdn.com/content/v1/59543ad972af659452cb2c86/1568297675410-MYL2KP7Y8HCZEXR5C5GE/Spirited+1.gif" alt="Chiriro Gif">
 <h3 align="left">
   <a href="https://ingryd-duarte.vercel.app">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20iOS%20developer;%20Cybersecurity%20Jr;Always%20learning%20new%20things;See%20more%20works%20here&center=false&font=Fira%20Code&width=420&height=45&color=a87aff&pause=300&size=22" />
@@ -8,7 +8,9 @@
 </h3>
 
 <p>
-I'm from Fortaleza, Brazil. I'm currently an undergraduate student at the Federal University of Ceará, studying Digital Systems and Media. I've been passionate about technology, innovation, and games since I was a child and started programming in mid-2022. I'm currently looking for my first opportunity and this is my GitHub, where I share projects, studies, open-source projects, and my evolution in programming. I hope you like it! 😉
+I've been interested in technology and innovation since childhood, creating 3D animations and small games, and I've been studying programming since mid-2022. Currently, I'm an undergraduate student in Digital Systems and Media at the Federal University of Ceará.
+
+My interests and studies focus on mobile development, web/desktop technologies, cybersecurity, and machine learning. I mainly share projects, studies, discussions, and open-source contributions here, but you can find other resources on my channels and contact me. :)
   
   <b>Interested in:</b> Mobile development, UI/UX, back-end, full-stack development and cybersecurity.
 </p>  
@@ -19,9 +21,18 @@ I'm from Fortaleza, Brazil. I'm currently an undergraduate student at the Federa
   <a href="https://www.linkedin.com/in/ingrydduarte/"><img src="https://img.shields.io/badge/linkedin-5319bf.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.behance.net/ingrydduarte"><img src="https://img.shields.io/badge/behance-5319bf.svg?style=for-the-badge&logo=behance&logoColor=white"></a>
   <a href="https://tkdingryd.itch.io"><img src="https://img.shields.io/badge/itch.io-5319bf.svg?style=for-the-badge&logo=itch.io&logoColor=white"></a>
+  <a href="https://www.youtube.com/@tkdinsomniac"><img src="https://img.shields.io/badge/youtube-5319bf.svg?style=for-the-badge&logo=youtube&logoColor=white%22"></a>
 
 </div>
 <br>
+
+### Experiencies
+
+#### Lenovo Partnership Project (Nov 2025 - present)
+`Laboratório de Sistemas e Banco de Dados`
+
+- Involved in the development, maintenance, and debugging of a hardware diagnostic tool as a partnership between Lenovo and UFC, using Qt, React, and Typescript.
+- Investigation and resolution of complex bugs reported by international QA teams (Brazil and China).
 
 <div name="skills" align="left" gap="10">
     <h3>Skills</h3>
