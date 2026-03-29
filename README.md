@@ -26,14 +26,6 @@ My interests and studies focus on mobile development, web/desktop technologies, 
 </div>
 <br>
 
-### Experiencies
-
-#### Lenovo Partnership Project (Nov 2025 - present)
-`Laboratório de Sistemas e Banco de Dados`
-
-- Involved in the development, maintenance, and debugging of a hardware diagnostic tool as a partnership between Lenovo and UFC, using Qt, React, and Typescript.
-- Investigation and resolution of complex bugs reported by international QA teams (Brazil and China).
-
 <div name="skills" align="left" gap="10">
     <h3>Skills</h3>
   
